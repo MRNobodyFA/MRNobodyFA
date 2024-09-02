@@ -1,5 +1,5 @@
 ### About me
-HI:trollface:
+HI :trollface:
 
 <!--
 **overninja/overninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
