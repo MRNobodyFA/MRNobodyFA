@@ -1,5 +1,9 @@
 ### About me
 HI :trollface:
+I'm amir mohamad.
+I'm from iran 🇮🇷
+
+
 
 <!--
 **overninja/overninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
