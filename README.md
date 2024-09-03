@@ -2,6 +2,7 @@
 HI :trollface:
 
 I'm 14 years old and from iran 🇮🇷
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UnknownLegendary&repo=github-readme-stats&theme=ambient_gradient)](https://github.com /UnknownLegendary/github-readme-stats)
 
 
 
