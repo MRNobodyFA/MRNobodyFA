@@ -1,9 +1,7 @@
 ### About me
 HI :trollface:
 
-I'm 14 years old.
-
-I'm from iran 🇮🇷
+I'm 14 years old and from iran 🇮🇷
 
 
 
