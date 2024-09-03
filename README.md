@@ -1,7 +1,8 @@
 ### About me
 HI :trollface:
 
-I'm amir mohamad.
+I'm 14 years old.
+
 I'm from iran 🇮🇷
 
 
